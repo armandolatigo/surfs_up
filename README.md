@@ -9,10 +9,10 @@ The purpose of the analysis was help W. Avy make a conclusive decision of whethe
 <img width="207" alt="Screen Shot 2021-12-25 at 7 07 45 PM" src="https://user-images.githubusercontent.com/92451164/147396520-bbad003a-8a22-43ab-a91a-a07be6bf841c.png">
 
 
--The Maximum temperature range is between 83 - 85 °F 
--The Minimum temperature range is 56 - 64 °F
--Mean difference between the mean averages is 4°F
--Standard deviation is only ~3°F so most of the data collected is in suitable weather both for ice cream and surfing
+ -The Maximum temperature range is between 83 - 85 °F 
+ -The Minimum temperature range is 56 - 64 °F
+ -Mean difference between the mean averages is 4°F
+ -Standard deviation is only ~3°F so most of the data collected is in suitable weather both for ice cream and surfing
 
 ### Summary 
 
