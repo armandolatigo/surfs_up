@@ -4,9 +4,10 @@ The purpose of the analysis was help W. Avy make a conclusive decision of whethe
 
 ### Results
 
-Img (JUNE)
+<img width="204" alt="Screen Shot 2021-12-25 at 7 07 54 PM" src="https://user-images.githubusercontent.com/92451164/147396518-62ed42bd-090b-4287-b320-50f8d44365db.png">
 
-Img (DEC)
+<img width="207" alt="Screen Shot 2021-12-25 at 7 07 45 PM" src="https://user-images.githubusercontent.com/92451164/147396520-bbad003a-8a22-43ab-a91a-a07be6bf841c.png">
+
 
 -The Maximum temperature range is between 83 - 85 °F 
 -The Minimum temperature range is 56 - 64 °F
